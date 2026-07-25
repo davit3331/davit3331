@@ -48,7 +48,7 @@
 
 ## 🛠️ Featured Project
 
-### BrokerSync — Insurance CRM & Analytics Platform
+### Insurance CRM & Analytics Platform
 
 A production-oriented, multi-tenant SaaS platform built for a Canadian insurance brokerage.
 
@@ -59,6 +59,8 @@ A production-oriented, multi-tenant SaaS platform built for a Canadian insurance
 - Developed a dashboard with multi-year comparisons and filtering
 
 **Stack:** TypeScript, Next.js, NestJS, Prisma, PostgreSQL, Docker
+
+🔒 Private repository: Source code is private due to client confidentiality. Recruiters and collaborators are welcome to contact me for a walkthrough, architecture overview, or code samples.
 
 ---
 

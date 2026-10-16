@@ -53,7 +53,7 @@ Research Assistant at York University's Lassonde School of Engineering (ARISEN-S
 
 ## 🛠️ Featured Project
 
-### ReconSila — Bordereaux Reconciliation Platform
+### ReconSila: Bordereaux Reconciliation Platform
 
 A multi-tenant SaaS platform for Canadian insurance brokerages. I am the founder and sole developer, and the first customer is **live in production**.
 

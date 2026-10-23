@@ -69,16 +69,17 @@ A multi-tenant SaaS platform for Canadian insurance brokerages. I am the founder
 
 ---
 
-## 📖 Also Building
+## 📱 Also Building
 
-### Armenian Bible Platform (Work in Progress)
+### Offline-First Cross-Platform Mobile App (Work in Progress)
 
-An offline-first, cross-platform mobile app serving four parallel text editions from a bundled SQLite database, with no server, authentication, or hosting required.
+A Flutter app with no backend or hosting, built with a small team. All content is bundled and searchable on the device.
 
-- Designed a canonical reference schema and cross-edition mapping table to align verse numbering that differs between classical and modern editions
-- Leading a three-developer team, with repository-pattern interfaces that let each developer build in parallel against in-memory test doubles
+- Architected the app in Flutter/Dart (28K lines, 120 automated tests), with unified search over 4,000+ documents and a verse-mapping schema that reconciles two incompatible numbering systems
+- Built a Python OCR pipeline for 540 scanned pages: two independent LLM transcriptions diffed word by word (1–7% disagreement), flagged spans routed to human review, and unverified data excluded from release builds
+- Led the team using interfaces that let each developer build and test in parallel; implemented a reading-plan generator that splits chapters evenly across user-chosen days
 
-**Stack:** Flutter, Dart, SQLite, Python
+**Stack:** Flutter, Dart, Python
 
 ---
 
